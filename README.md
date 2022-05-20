@@ -1,2 +1,2 @@
 # odin-recipes
-"Recipes" assignment: a part of The Odin Project
+"Recipes" - HTML assignment in The Odin Project
