@@ -1,0 +1,17 @@
+* {
+    font-family: Garamond, sans-serif;
+}
+
+h1 {
+    font-size: 10vw;
+    text-align: center;
+}
+
+li {
+    font-size: 2vw;
+    list-style-position: inside;
+}
+
+a:hover {
+    color: rgb(255, 165, 0);
+}
